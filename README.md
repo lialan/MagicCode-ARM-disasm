@@ -1,5 +1,7 @@
 0. apply the patch to your MagicCode repo.
+```
 git apply annotate.patch
+```
 1. download darm into this folder:
 ```
 git clone git://github.com/jbremer/darm.git
